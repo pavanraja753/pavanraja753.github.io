@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+
+I am a PhD student in the Computer Science department at Missouri S&T, advised by [Prof. Ardhendu Tripathy](https://astripathy.github.io). Additionally, I am a member of the Statistical Machine Learning Lab. My interests broadly include Machine Learning, Signal Processing, and Optimization. Currently, I am working on developing Sequential Decision Making algorithms for multi-armed bandits and black-box optimization."
+"Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Tony T Luo](https://tluocs.github.io). I earned my Bachelor's degree in Aerospace Engineering from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a Data Analyst, Data Scientist, Research Engineer, and R&D Data Scientist at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively
+
+Here's My CV  
+
+
 
 Publications
 ======
@@ -24,6 +31,7 @@ Publications
 + **Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence** <br/>
 Praveen Sahu, Pragatheiswar Giri, **Raja Sunkara**, Raji Sundararajan <br/>
 [ [Paper](https://ieeexplore.ieee.org/abstract/document/9777165)]
+
 
 
 
