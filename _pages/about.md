@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student in the Computer Science department at Missouri S&T, advised by [Prof. Ardhendu Tripathy](https://astripathy.github.io). Additionally, I am a member of the Statistical Machine Learning Lab. My interests broadly include Machine Learning, Signal Processing, and Optimization. Currently, I am working on developing Sequential Decision Making algorithms for multi-armed bandits and black-box optimization.
 
-Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Tony T Luo](https://tluocs.github.io). I earned my Bachelor's degree in Aerospace Engineering from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a Data Analyst, Data Scientist, Research Engineer, and R&D Data Scientist at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively
+Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Tony T Luo](https://tluocs.github.io). I earned my Bachelor's degree in Aerospace Engineering from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a Data Analyst, Data Scientist, Research Engineer, and R&D Data Scientist at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively.
 
 Here's My CV  
 
