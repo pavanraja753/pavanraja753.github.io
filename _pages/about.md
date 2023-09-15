@@ -34,7 +34,10 @@ Praveen Sahu, Pragatheiswar Giri, **Raja Sunkara**, Raji Sundararajan <br/>
 [ [Paper](https://ieeexplore.ieee.org/abstract/document/9777165)]
 
 
+Courses
+======
 
+1. Functional Analysis I
 
 Teaching
 ======
