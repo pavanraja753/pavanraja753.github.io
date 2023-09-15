@@ -37,7 +37,7 @@ Praveen Sahu, Pragatheiswar Giri, **Raja Sunkara**, Raji Sundararajan <br/>
 Courses
 ======
 
-1. Functional Analysis I
+Functional Analysis, Mathematics of Medical Imaging, Theory of Reinforcement Learning, Machine Learning in Computer Vision, Advanced topics in AI, Analysis of Algorithms, Convex Optimization, Applied Time-Series Analysis,  Probability, Statistics and Stochastic Process, Numerical Analysis, Process Optimization, Multivariate Data Analysis for Process Modeling
 
 Teaching
 ======
