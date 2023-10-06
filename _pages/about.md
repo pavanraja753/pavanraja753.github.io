@@ -24,15 +24,17 @@ Publications
 + **No more strided convolutions or pooling: a new CNN building block for low-resolution images and small objects.** <br/>
 **Raja Sunkara**, Tony Luo <br/>
 [ [Paper](https://arxiv.org/abs/2208.03641) ]
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), September 2022.
 
 + **YOGA: Deep object detection in the wild with lightweight feature learning and multiscale attention** <br/>
 **Raja Sunkara**, Tony Luo <br/>
 [ [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516?via%3Dihub) ]
+Pattern Recognition, July 2023.
 
 + **Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence** <br/>
 Praveen Sahu, Pragatheiswar Giri, **Raja Sunkara**, Raji Sundararajan <br/>
 [ [Paper](https://ieeexplore.ieee.org/abstract/document/9777165)]
-
+International Conference on Trends in Electronics and Informatics (ICOEI), 2022.
 
 Courses
 ======
