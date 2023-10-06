@@ -18,7 +18,7 @@ Previously, I obtained my Master's thesis from Missouri S&T under the guidance o
 Publications
 ======
 
-+ **Computer Vision in Adverse Conditions: Small Objects, Low-Resolution Images, and Edge Deployment. ** <br/>
++ **Computer Vision in Adverse Conditions: Small Objects, Low-Resolution Images, and Edge Deployment.** <br/>
 **Raja Sunkara, MS Thesis**
 
 + **No more strided convolutions or pooling: a new CNN building block for low-resolution images and small objects.** <br/>
