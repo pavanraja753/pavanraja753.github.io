@@ -14,9 +14,6 @@ I am a PhD student in the Computer Science department at Missouri S&T, advised b
 
 Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Tony T Luo](https://tluocs.github.io). I earned my Bachelor's degree in Aerospace Engineering from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a Data Analyst, Data Scientist, Research Engineer, and R&D Data Scientist at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively.
 
-Here's My CV  
-
-
 
 Publications
 ======
@@ -42,5 +39,7 @@ Functional Analysis, Mathematics of Medical Imaging, Theory of Reinforcement Lea
 Teaching
 ======
 
-Service
+Professional Service
 ======
+
+Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS)(2024) 
