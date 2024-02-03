@@ -36,6 +36,12 @@ Praveen Sahu, Pragatheiswar Giri, **Raja Sunkara**, Raji Sundararajan <br/>
 [ [Paper](https://ieeexplore.ieee.org/abstract/document/9777165)]
 International Conference on Trends in Electronics and Informatics (ICOEI), 2022.
 
+
+Events
+======
+
+1. I attended the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) virtually in September 2022.
+
 Courses
 ======
 
