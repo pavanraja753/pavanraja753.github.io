@@ -39,12 +39,13 @@ International Conference on Trends in Electronics and Informatics (ICOEI), 2022.
 Courses
 ======
 
-Functional Analysis, Mathematics of Medical Imaging, Theory of Reinforcement Learning, Machine Learning in Computer Vision, Advanced topics in AI, Analysis of Algorithms, Convex Optimization, Applied Time-Series Analysis,  Probability, Statistics and Stochastic Process, Numerical Analysis, Process Optimization, Multivariate Data Analysis for Process Modeling
+High-Dimensional Statistics, Functional Analysis I, Mathematics of Medical Imaging, Theory of Reinforcement Learning, Machine Learning in Computer Vision, Advanced topics in AI, Analysis of Algorithms, Convex Optimization, Applied Time-Series Analysis,  Probability, Statistics and Stochastic Process, Numerical Analysis, Process Optimization, Multivariate Data Analysis for Process Modeling
+
 
 Teaching
 ======
 
 Professional Service
 ======
-
 Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS)(2024) 
+
