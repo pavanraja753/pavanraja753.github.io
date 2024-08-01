@@ -41,6 +41,7 @@ Events
 ======
 
 1. I attended the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) virtually in September 2022.
+2. I attended the International Conference on Machine Learning (ICML) virtually in July 2024.
 
 Courses
 ======
