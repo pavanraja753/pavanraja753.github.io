@@ -12,7 +12,7 @@ redirect_from:
 
 I am a second year PhD student in the Computer Science department at Missouri S&T, advised by [Prof. Ardhendu Tripathy](https://astripathy.github.io). Additionally, I am a member of the [Statistical Machine Learning Lab](https://sites.mst.edu/smilelab/). My research interests broadly include machine learning, signal processing, and optimization. Currently, I am working on developing sequential decision making algorithms for multi-armed bandits and black-box optimization.
 
-Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Tony T Luo](https://tluocs.github.io). I earned my Bachelor's degree in Aerospace Engineering from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a Data Analyst, Data Scientist, Research Engineer, and R&D Data Scientist at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively.
+Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Thomas Tie Luo](https://tluocs.github.io). I earned my Bachelor's degree in Aerospace Engineering from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a Data Analyst, Data Scientist, Research Engineer, and R&D Data Scientist at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively.
 
 
 Publications
@@ -22,12 +22,12 @@ Publications
 **Raja Sunkara, MS Thesis**
 
 + **No more strided convolutions or pooling: a new CNN building block for low-resolution images and small objects.** <br/>
-**Raja Sunkara**, Tony Luo <br/>
+**Raja Sunkara**, Tie Luo <br/>
 [ [Paper](https://arxiv.org/abs/2208.03641) ]
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), September 2022.
 
 + **YOGA: Deep object detection in the wild with lightweight feature learning and multiscale attention** <br/>
-**Raja Sunkara**, Tony Luo <br/>
+**Raja Sunkara**, Tie Luo <br/>
 [ [Paper](https://www.sciencedirect.com/science/article/pii/S0031320323001516?via%3Dihub) ]
 Pattern Recognition, July 2023.
 
