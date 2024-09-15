@@ -54,6 +54,7 @@ Teaching
 
 Professional Service
 ======
-Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS)(2024, 2025) 
-Reviewer for Neural Information Processing Systems (NeurIPS 2024)
+1. Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS)(2024, 2025).
+
+2. Reviewer for Neural Information Processing Systems (NeurIPS 2024)
 
