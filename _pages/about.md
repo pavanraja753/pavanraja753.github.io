@@ -54,7 +54,9 @@ Teaching
 
 Professional Service
 ======
-1. Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS)(2024, 2025).
-
-2. Reviewer for Neural Information Processing Systems (NeurIPS 2024)
+1. Reviewer for International Conference on Artificial Intelligence and Statistics (AISTATS) (2024, 2025)
+1. Reviewer for Neural Information Processing Systems (NeurIPS 2024)
+1. Reviewer for International Conference on Learning Representations (ICLR 2025)
+1. Attended the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) virtually in September 2022
+1. Selected to attend the Neural Information Processing Systems (NeurIPS) conference in December 2024
 
