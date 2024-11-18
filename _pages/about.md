@@ -17,6 +17,42 @@ Previously, I obtained my Master's thesis from Missouri S&T under the guidance o
 [Download my CV](Raja_Nov.pdf)
 
 
+# 👋 Hello, I'm Raja!
+
+## 🎓 Education
+
+I am a second year PhD student in the Computer Science department at Missouri S&T, advised by [Prof. Ardhendu Tripathy](https://astripathy.github.io). Additionally, I am a proud member of the [Statistical Machine Learning Lab](https://sites.mst.edu/smilelab/). 
+
+## 🔬 Research Interests
+
+My research interests broadly include:
+- Machine Learning
+- Signal Processing
+- Optimization
+
+Currently, I'm focusing on developing **sequential decision making algorithms** for multi-armed bandits and black-box optimization.
+
+## 🏆 Previous Experience
+
+- 🎓 **Master's Thesis**: Missouri S&T, under [Prof. Thomas Tie Luo](https://tluocs.github.io)
+- 🚀 **Bachelor's Degree**: Aerospace Engineering, Indian Institute of Technology, Madras
+  - Thesis project supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html)
+
+## 💼 Industry Experience
+
+I've worn many hats in the industry:
+- 📊 Data Analyst at Enfrien Innovations
+- 🧪 Data Scientist at Agrometrics
+- 🔬 Research Engineer at Matdun Labs
+- 🥼 R&D Data Scientist at Alcon
+
+## 📄 Curriculum Vitae
+
+[Download my CV](Raja_Nov.pdf)
+
+Feel free to reach out if you'd like to discuss research, collaboration opportunities, or just chat about data science and machine learning! 😊
+
+
 Publications
 ======
 
