@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am a second year PhD student in the **Computer Science department** at Missouri S&T, advised by [Prof. Ardhendu Tripathy](https://astripathy.github.io). Additionally, I am a member of the [Statistical Machine Learning Lab](https://sites.mst.edu/smilelab/). My research interests broadly include **machine learning**, **signal processing**, and **optimization**. Currently, I am working on developing **sequential decision making algorithms** for multi-armed bandits and black-box optimization. 🤖
+I am a second year PhD student in the **Computer Science department** at Missouri S&T, advised by [Prof. Ardhendu Tripathy](https://astripathy.github.io). Additionally, I am a member of the [Statistical Machine Learning Lab](https://sites.mst.edu/smilelab/). My research interests broadly include **machine learning**, **signal processing**, and **optimization**. Currently, I am working on developing **sequential decision making algorithms** for multi-armed bandits and black-box optimization. 
 
-Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Thomas Tie Luo](https://tluocs.github.io). I earned my Bachelor's degree in **Aerospace Engineering** from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a **Data Analyst**, **Data Scientist**, **Research Engineer**, and **R&D Data Scientist** at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively. 💼
+Previously, I obtained my Master's thesis from Missouri S&T under the guidance of [Prof. Thomas Tie Luo](https://tluocs.github.io). I earned my Bachelor's degree in **Aerospace Engineering** from the Indian Institute of Technology, Madras, where my thesis project was supervised by [Prof. Ranjith Mohan](https://home.iitm.ac.in/ranjith.m/md/ranj.html). In industry, I worked as a **Data Analyst**, **Data Scientist**, **Research Engineer**, and **R&D Data Scientist** at Enfrien Innovations, Agrometrics, Matdun Labs, and Alcon, respectively. 
 
 ## 📄 Download My CV
 
-👉 [**Download my CV**](Raja_Nov.pdf) 👈
+[**Download my CV**](Raja_Nov.pdf) 
 
 
 
