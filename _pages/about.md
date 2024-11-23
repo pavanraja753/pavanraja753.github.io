@@ -22,10 +22,14 @@ Previously, I obtained my Master's thesis from Missouri S&T under the guidance o
 Publications
 ======
 
-+ **Computer Vision in Adverse Conditions: Small Objects, Low-Resolution Images, and Edge Deployment.** <br/>
++ Adaptive Partitioning Schemes for Black-Box Optimization. **Raja Sunkara**, Ardhendu Tripathy. Under Review, International Conference on Artificial Intelligence and Statistics (AISTATS), 2025.
+
++ Adaptive Partitioning Schemes for Black-Box Optimization. **Raja Sunkara**, Ardhendu Tripathy. Workshop on Optimization for Machine Learning, 38th Conference on Neural Information Processing Systems (NeurIPS), 2024.
+
++ Computer Vision in Adverse Conditions: Small Objects, Low-Resolution Images, and Edge Deployment. <br/>
 **Raja Sunkara, MS Thesis**
 
-+ **No more strided convolutions or pooling: a new CNN building block for low-resolution images and small objects.** <br/>
++ No more strided convolutions or pooling: a new CNN building block for low-resolution images and small objects. <br/>
 **Raja Sunkara**, Tie Luo <br/>
 [ [Paper](https://arxiv.org/abs/2208.03641) ]
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), September 2022.
@@ -44,8 +48,9 @@ International Conference on Trends in Electronics and Informatics (ICOEI), 2022.
 Events
 ======
 
-1. I attended the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) virtually in September 2022.
-2. I attended the International Conference on Machine Learning (ICML) virtually in July 2024.
+1. I will be attending the Neural Information Processing Systems (NeurIPS) conference from December 10 to December 15, 2024, to present my paper.
+1. I attended the International Conference on Machine Learning (ICML) virtually in July 2024.
+1. I presented my paper at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) in September 2022.
 
 Courses
 ======
@@ -62,5 +67,5 @@ Professional Service
 1. Reviewer for Neural Information Processing Systems (NeurIPS 2024)
 1. Reviewer for International Conference on Learning Representations (ICLR 2025)
 1. Attended the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) virtually in September 2022
-1. Attending the Neural Information Processing Systems (NeurIPS) conference in December 2024
+
 
